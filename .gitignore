@@ -1,7 +1,6 @@
 /target*
 /dist/
 /docs/inner
-/.vscode
 /.codex
 /.claude
 /.codex-tmp
@@ -24,3 +23,4 @@ __pycache__
 /moli-benchmark/moli-benchmark/
 
 node_modules
+config.bat
